@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-exam", "oop-exam\oop-exam.csproj", "{3C6C786F-1195-4B00-A3AF-CEBB49D93F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-exam-midterm", "oop-exam-midterm\oop-exam-midterm.csproj", "{87BF1AE0-8314-4089-A759-55BAAE0B22B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6C786F-1195-4B00-A3AF-CEBB49D93F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6C786F-1195-4B00-A3AF-CEBB49D93F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6C786F-1195-4B00-A3AF-CEBB49D93F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6C786F-1195-4B00-A3AF-CEBB49D93F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BF1AE0-8314-4089-A759-55BAAE0B22B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BF1AE0-8314-4089-A759-55BAAE0B22B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BF1AE0-8314-4089-A759-55BAAE0B22B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BF1AE0-8314-4089-A759-55BAAE0B22B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48969EA2-D678-40E0-91A2-C1896D61A0FB}
+	EndGlobalSection
+EndGlobal
